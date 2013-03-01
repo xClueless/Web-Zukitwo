@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<link type="text/css" rel="stylesheet" href="base.css">
+		<link type="text/css" rel="stylesheet" href="css/base.css">
 		<title>Java Showcase</title>
 	</head>
 	<body>
